@@ -1,0 +1,21 @@
+.App {
+  padding: 10px;
+}
+.header,
+.todo,
+.userinfo1,
+.userinfo2,
+.message {
+    margin-bottom: 10px;
+}
+.messagelist,
+.pecklist {
+}
+.todo-title {
+  margin-bottom: 5px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
